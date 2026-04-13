@@ -1,0 +1,2 @@
+# A-Machine-Learning-Approach-for-Multi-Class-Complaint-Classification-of-financial-complaints
+This project presents an intelligent complaint classification system using Natural Language Processing (NLP) and Machine Learning techniques. The system processes textual complaints and classifies them into predefined categories using TF-IDF and classifiers such as SVM, Logistic Regression, and Naive Bayes.

@@ -6,7 +6,7 @@ This project presents an intelligent complaint classification system using Natur
 -Train ML models (SVM, Logistic Regression, Naive Bayes)
 -Handle class imbalance using SMOTE
 -item Build a real-time dashboard
-#Workflow Description
+# Workflow Description
 The system follows a structured pipeline for complaint classification:
 -User Input / Dataset Input( Complaint text is provided by user or dataset)
 -Data Preprocessing( Text cleaning and normalization)
